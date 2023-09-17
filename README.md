@@ -11,7 +11,7 @@ I'm a mechanical engineer with knowledge in mechanical design, handling of engin
  ![Inventor](https://img.shields.io/badge/Inventor-orange?style=for-the-badge&logo=Autodesk)
 
 ## 🥋 More ...
-<img align="right" src="https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif" alt="Hola Coders" width="500" height="200"/> 
+<img align="right" src="https://github.com/GabyLE/gabyle/blob/main/me_reading.png" alt="Hola Coders" width="500" height="200"/> 
 
 - 🌱 I’m currently learning **Scikit-Learn, German, SEO**
 - 🤔 I’m looking for help with ...

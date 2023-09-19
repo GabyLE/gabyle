@@ -1,6 +1,6 @@
 # Hi! I'm Gabriela ✨
 
-I'm a mechanical engineer with knowledge in mechanical design, handling of engineering computer tools, basic knowledge in mechatronics, and other branches of knowledge of the career. I am interested in working in the development of industry 4.0, mechatronics and automation projects. And recently I've been looking to specialize myself as an Data Analyst and Data Scientist.
+I'm a mechanical engineer with knowledge in mechanical design, handling of engineering computer tools, basic knowledge in mechatronics, and other branches of knowledge of the career. I am interested in working in the development of industry 4.0, mechatronics and automation projects. And recently I've been looking to specialize myself as Data Scientist.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabyle/) ![X(Twitter)](https://img.shields.io/badge/X(Twitter)-white?logo=X&logoColor=black&link=https%3A%2F%2Ftwitter.com%2Fgabyle_journal)

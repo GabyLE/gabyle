@@ -8,7 +8,8 @@ I'm a mechanical engineer with knowledge in mechanical design, handling of engin
 
 ## 💻 Tech Stack:
 ### Engineering:
-![Inventor](https://img.shields.io/badge/Inventor-orange?style=for-the-badge&logo=Autodesk) ![Autocad](https://img.shields.io/badge/AutoCAD-black?style=for-the-badge&logo=Autodesk)
+![Inventor](https://img.shields.io/badge/Inventor-orange?style=for-the-badge&logo=Autodesk) ![Autocad](https://img.shields.io/badge/AutoCAD-black?style=for-the-badge&logo=Autodesk) ![ansys](https://img.shields.io/badge/Ansys-FFB71B?style=for-the-badge)
+
 ### General:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 

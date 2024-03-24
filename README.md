@@ -24,7 +24,7 @@ I'm a mechanical engineer with knowledge in mechanical design, handling of engin
 <img align="right" src="https://github.com/GabyLE/gabyle/blob/main/me_reading.png" alt="Hola Coders" width="500" height="200"/> 
 
 - 🔭 I’m currently focusing on IoT and digital transformation.
-- 🌱 I’m currently learning **Google Cloud, German**
+- 🌱 I’m currently learning **Data Analysis, Digital Marketing**
 - 📫 How to reach me: denisgabylopez@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I paint and practice Judo
